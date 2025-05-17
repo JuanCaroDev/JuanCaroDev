@@ -7,7 +7,7 @@ Juan Caro</a></h1>
 </div>
 
 <!--Header Name-->
-# 👨‍💻 About me
+## 👨‍💻 About me
 
 *JuanCaroDev (Full Stack Developer)*
 <!--Start Intro-->               
