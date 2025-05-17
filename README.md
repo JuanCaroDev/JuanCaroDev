@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Juan Caro</a></h1>
 
-<!--Night Owl image-->
+<!--Laptop image-->
 <div>
   <img align="right" width="40%" src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif?cid=ecf05e47815tep4fhwm06gckbskvtc7gg8x03714pb5hzi4z&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 </div>
