@@ -9,13 +9,11 @@ Saurabh</a></h1>
 <!--Header Name-->
 # 👨‍💻 About me 
 *JuanCaroDev (Full Stack Developer)*
-<br /> 
-
 <!--Start Intro-->               
-✨ | Systems Engineering student.
-💻 | Full Stack Web Developer.
-🌱 | I’m expanding my knowledge in frontend and backend development. I firmly believe that every day is an opportunity to learn something new.
-🧠 | Passionate about solving problems and finding innovative solutions.
-📚 | I enjoy reading about history, good habits, and technology.
-💡 | I love creating useful, creative, and innovative projects.
+- ✨ | Systems Engineering student.
+- 💻 | Full Stack Web Developer.
+- 🌱 | I’m expanding my knowledge in frontend and backend development. I firmly believe that every day is an opportunity to learn something new.
+- 🧠 | Passionate about solving problems and finding innovative solutions.
+- 📚 | I enjoy reading about history, good habits, and technology.
+- 💡 | I love creating useful, creative, and innovative projects.
 <!--End Intro-->
