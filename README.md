@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Saurabh</a></h1>
 
-<!--
-**JuanCaroDev/JuanCaroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif?cid=ecf05e47815tep4fhwm06gckbskvtc7gg8x03714pb5hzi4z&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+</div>
 
-Here are some ideas to get you started:
+<!--Header Name-->
+# 👨‍💻 About me 
+*JuanCaroDev (Full Stack Developer)*
+<br /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Start Intro-->               
+✨ | Systems Engineering student.
+💻 | Full Stack Web Developer.
+🌱 | I’m expanding my knowledge in frontend and backend development. I firmly believe that every day is an opportunity to learn something new.
+🧠 | Passionate about solving problems and finding innovative solutions.
+📚 | I enjoy reading about history, good habits, and technology.
+💡 | I love creating useful, creative, and innovative projects.
+<!--End Intro-->
