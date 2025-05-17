@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
+Juan Caro</a></h1>
 
 <!--Night Owl image-->
 <div>
@@ -10,10 +10,10 @@ Saurabh</a></h1>
 # 👨‍💻 About me 
 *JuanCaroDev (Full Stack Developer)*
 <!--Start Intro-->               
-- ✨ | Systems Engineering student.
-- 💻 | Full Stack Web Developer.
-- 🌱 | I’m expanding my knowledge in frontend and backend development. I firmly believe that every day is an opportunity to learn something new.
-- 🧠 | Passionate about solving problems and finding innovative solutions.
-- 📚 | I enjoy reading about history, good habits, and technology.
-- 💡 | I love creating useful, creative, and innovative projects.
+- ✨ Systems Engineering student.
+- 💻 Full Stack Web Developer.
+- 🌱 I’m expanding my knowledge in frontend and backend development. I firmly believe that every day is an opportunity to learn something new.
+- 🧠 Passionate about solving problems and finding innovative solutions.
+- 📚 I enjoy reading about history, good habits, and technology.
+- 💡 I love creating useful, creative, and innovative projects.
 <!--End Intro-->
