@@ -18,7 +18,8 @@ Juan Caro</a></h1>
 - 📚 I enjoy reading about history, good habits, and technology.
 - 💡 I love creating useful, creative, and innovative projects.
 <!--End Intro-->
-<br>
+<br/>
+
 ## My Skills Include
 
 <h4> Languages </h4>
