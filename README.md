@@ -12,8 +12,7 @@ Juan Caro</a></h1>
 
 *JuanCaroDev (Full Stack Developer)*
 <!--Start Intro-->               
-- ✨ Systems Engineering student.
-- 💻 Full Stack Web Developer.
+- 💻 Systems Engineering student.
 - 🌱 I’m expanding my knowledge in frontend and backend development. I firmly believe that every day is an opportunity to learn something new.
 - 🧠 Passionate about solving problems and finding innovative solutions.
 - 📚 I enjoy reading about history, good habits, and technology.
