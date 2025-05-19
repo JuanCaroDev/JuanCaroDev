@@ -4,10 +4,6 @@ Juan Caro</a></h1>
 
 <!--Header Name-->
 ### 👨‍💻 About me
-<!--Laptop Image-->
-<div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif?cid=ecf05e47815tep4fhwm06gckbskvtc7gg8x03714pb5hzi4z&ep=v1_stickers_search&rid=giphy.gif&ct=s">
-</div>
 
 *JuanCaroDev (Full Stack Developer)*
 <!--Start Intro-->               
@@ -18,6 +14,10 @@ Juan Caro</a></h1>
 - 📚 I enjoy reading about history, good habits, and technology.
 - 💡 I love creating useful, creative, and innovative projects.
 <!--End Intro-->
+<!--Laptop Image-->
+<div>
+  <img align="right" width="40%" src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif?cid=ecf05e47815tep4fhwm06gckbskvtc7gg8x03714pb5hzi4z&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+</div>
 
 ## My Skills Include
 
