@@ -17,7 +17,7 @@ Juan Caro</a></h1>
 - 🧠 Passionate about solving problems and finding innovative solutions.
 - 📚 I enjoy reading about history, good habits, and technology.
 - 💡 I love creating useful, creative, and innovative projects.
-- 🚀 I'm actually learning:
+- 🎯 I'm actually learning:
     - NestJS  
 <!--End Intro-->
 <br/>
