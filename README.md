@@ -17,7 +17,7 @@ Juan Caro</a></h1>
 - 🧠 Passionate about solving problems and finding innovative solutions.
 - 📚 I enjoy reading about history, good habits, and technology.
 - 💡 I love creating useful, creative, and innovative projects.
-- 🎯 I'm actually learning:
+- 🎯 I'm currently learning:
 
     ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 <!--End Intro-->
