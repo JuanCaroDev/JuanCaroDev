@@ -19,7 +19,8 @@ Juan Caro</a></h1>
 - 💡 I love creating useful, creative, and innovative projects.
 - 🎯 I'm currently learning:
 
-    ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <!--End Intro-->
 <br/>
 
